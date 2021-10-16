@@ -1,0 +1,28 @@
+.news-cards {
+    .card {
+      border-radius: 10px;
+      border: none;
+    }
+  
+    .progress {
+      padding-top: 16px;
+      padding-bottom: 16px;
+    }
+  
+    button {
+      position: relative;
+      border: none;
+      width: 100%;
+  
+      &:after {
+        position: absolute;
+        top: 0;
+        right: 0;
+        content: " ";
+        width: 32px;
+        background: $medium-gray;
+        height: 100%;
+        border-radius: 0 4px 4px 0;
+      }
+    }
+  }

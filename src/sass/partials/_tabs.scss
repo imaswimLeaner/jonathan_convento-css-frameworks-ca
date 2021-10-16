@@ -1,0 +1,33 @@
+.content-tabs {
+    .nav-tabs {
+      border: none;
+    }
+  
+    .nav-item {
+      padding: 8px 32px;
+      border-top-left-radius: 10px;
+      border-top-right-radius: 10px;
+      margin-bottom: -1px;
+      &.active {
+        border-color: #d1d1d1;
+        border-bottom: none;
+      }
+    }
+  
+    .tab-content {
+      background: white;
+      padding: 32px;
+      border-radius: 0 10px 10px 10px;
+      @include shadow(16px, 22px, 0.06);
+      border: 1px solid #d1d1d1;
+      min-height: 250px;
+    }
+  
+    .media-body {
+      padding-left: 32px;
+    }
+  
+    .share {
+      @extend .share-common;
+    }
+  }

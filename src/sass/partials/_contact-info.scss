@@ -1,0 +1,11 @@
+.contact-info {
+    @media(min-width: 768px) {
+        margin-top: 6rem;
+    }
+    ul {
+        padding: 0;
+    }
+    ul li {
+        list-style-type: none;
+    }
+}

@@ -1,0 +1,22 @@
+footer {
+    box-sizing: border-box;
+    .footer-element:first-of-type {
+        text-align: center;
+    }
+    .footer-element:last-of-type {
+        text-align: right;
+    }
+
+    @media (min-width: 768px) {
+        .footer-element {
+            text-align: center;
+        }
+
+        .footer-element:first-of-type {
+            text-align: left;
+        }
+    }
+    svg {
+        margin: 0 8px;
+      }
+}

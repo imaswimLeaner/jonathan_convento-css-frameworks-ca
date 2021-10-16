@@ -1,0 +1,25 @@
+.carousel {
+    .carousel-inner img {
+        width: 100vw;
+      }
+
+    .carousel-indicators li {
+        height: 2vw;
+        border: none;
+        background: white;
+        opacity: 1;
+        margin: 8px;
+        border-radius: 3px;
+        @include shadow(3px, 6px, 0.75);
+
+        &.active {
+            background: $primary;
+        }
+    }
+
+    .carousel-control-prev, .carousel-control-next {
+        display: none;
+    }
+
+
+}

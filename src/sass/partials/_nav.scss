@@ -1,0 +1,47 @@
+.navigation {
+
+      
+  
+    .navbar-brand {
+      font-family: 'Roboto', sans-serif;
+      font-style: italic;
+      color: $primary;
+      
+     
+    }
+  
+    .nav-link.active {
+      background: white;
+      border-radius: 0.25rem;
+      
+    }
+  
+    form {
+      .form-control {
+        flex: 1;
+        border: none;
+        border-radius: 0;
+        
+        
+    }
+    
+    .btn {
+        border-radius: 0;
+      }
+
+      
+    
+    }
+}
+
+  @media only screen and (max-width: 767.98px) {
+  
+    header {  
+      position: fixed;
+      z-index: 50;
+      width: 100%;
+      
+    }
+}
+
+ 

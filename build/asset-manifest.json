@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/react-frameworks-ca/static/css/main.63d38ee1.chunk.css",
+    "main.js": "/react-frameworks-ca/static/js/main.0beaac12.chunk.js",
+    "main.js.map": "/react-frameworks-ca/static/js/main.0beaac12.chunk.js.map",
+    "runtime-main.js": "/react-frameworks-ca/static/js/runtime-main.dfe6dfae.js",
+    "runtime-main.js.map": "/react-frameworks-ca/static/js/runtime-main.dfe6dfae.js.map",
+    "static/js/2.68d58cfc.chunk.js": "/react-frameworks-ca/static/js/2.68d58cfc.chunk.js",
+    "static/js/2.68d58cfc.chunk.js.map": "/react-frameworks-ca/static/js/2.68d58cfc.chunk.js.map",
+    "static/js/3.ee5e31d1.chunk.js": "/react-frameworks-ca/static/js/3.ee5e31d1.chunk.js",
+    "static/js/3.ee5e31d1.chunk.js.map": "/react-frameworks-ca/static/js/3.ee5e31d1.chunk.js.map",
+    "index.html": "/react-frameworks-ca/index.html",
+    "static/css/main.63d38ee1.chunk.css.map": "/react-frameworks-ca/static/css/main.63d38ee1.chunk.css.map",
+    "static/js/2.68d58cfc.chunk.js.LICENSE.txt": "/react-frameworks-ca/static/js/2.68d58cfc.chunk.js.LICENSE.txt",
+    "static/media/carousel-1.61d0dcbb.jpg": "/react-frameworks-ca/static/media/carousel-1.61d0dcbb.jpg",
+    "static/media/carousel-2.a4731f2f.jpg": "/react-frameworks-ca/static/media/carousel-2.a4731f2f.jpg",
+    "static/media/carousel-3.73336c1f.jpg": "/react-frameworks-ca/static/media/carousel-3.73336c1f.jpg",
+    "static/media/news-1.d74755f4.jpg": "/react-frameworks-ca/static/media/news-1.d74755f4.jpg",
+    "static/media/news-2.fa219759.jpg": "/react-frameworks-ca/static/media/news-2.fa219759.jpg",
+    "static/media/news-3.337643eb.jpg": "/react-frameworks-ca/static/media/news-3.337643eb.jpg",
+    "static/media/news-4.9b25592e.jpg": "/react-frameworks-ca/static/media/news-4.9b25592e.jpg",
+    "static/media/news-5.f3a734a9.jpg": "/react-frameworks-ca/static/media/news-5.f3a734a9.jpg",
+    "static/media/news-6.076b10f7.jpg": "/react-frameworks-ca/static/media/news-6.076b10f7.jpg",
+    "static/media/news-7.8bf6747b.jpg": "/react-frameworks-ca/static/media/news-7.8bf6747b.jpg",
+    "static/media/news-8.03f67029.jpg": "/react-frameworks-ca/static/media/news-8.03f67029.jpg",
+    "static/media/tab-1.1208851a.jpg": "/react-frameworks-ca/static/media/tab-1.1208851a.jpg",
+    "static/media/tab-2.3fdc4528.jpg": "/react-frameworks-ca/static/media/tab-2.3fdc4528.jpg",
+    "static/media/tab-3.179a527c.jpg": "/react-frameworks-ca/static/media/tab-3.179a527c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfe6dfae.js",
+    "static/js/2.68d58cfc.chunk.js",
+    "static/css/main.63d38ee1.chunk.css",
+    "static/js/main.0beaac12.chunk.js"
+  ]
+}
