@@ -1,8 +1,8 @@
 {
   "name": "css-frameworks-jonathan",
-  "homepage": "http://jonathanminds.com/myreact-ca",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jonathanminds.com/react-ca",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-brands-svg-icons": "^5.15.3",
@@ -12,6 +12,7 @@
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "^12.8.3",
     "bootstrap": "^4.6.0",
+    "build": "^0.1.4",
     "gh-pages": "^3.2.3",
     "node-sass": "^4.14.1",
     "react": "^17.0.2",
